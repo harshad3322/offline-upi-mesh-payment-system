@@ -18,7 +18,7 @@ public class CorsConfig {
 
                 registry.addMapping("/**")
 
-                        .allowedOrigins("http://localhost:5173","http://10.115.186.105:5173")
+                        .allowedOrigins("http://localhost:5173","http://10.115.186.105:5173","https://offline-upi-mesh-payment-system-kzs.vercel.app")
                         .allowedMethods("*")
                         .allowedHeaders("*");
             }
