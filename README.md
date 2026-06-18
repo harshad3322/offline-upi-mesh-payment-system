@@ -99,6 +99,11 @@ This project demonstrates concepts from:
 * Concurrent Processing
 * REST APIs
 
+ ## Deployment:
+- Docker
+- Render
+- Vercel
+
 ---
 
 ## Architecture
@@ -169,6 +174,16 @@ Transaction Ledger
 
 ---
 
+## Live Demo
+
+Frontend:
+https://offline-upi-mesh-payment-system-kzs.vercel.app
+
+Backend API:
+https://offline-upi-mesh-payment-system-2.onrender.com
+
+---
+
 ## Screenshot
 
 ## Dashboard
@@ -186,6 +201,12 @@ Transaction Ledger
 ## Ledger
 
 <img src="images/ledger.png" width="100%">
+
+## Backend
+
+ <img src="images/demoflow.png" width="100%">
+
+ <img src="images/backend.png" width="100%">
 
 ---
 
